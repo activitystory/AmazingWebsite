@@ -1,7 +1,3 @@
-You can use markdown to add content to you webpage.
-
-Here are some highlights of markdown syntax.
-
 # Emma
 ## is a good dog
 
