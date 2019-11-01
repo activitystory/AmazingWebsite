@@ -18,5 +18,5 @@ Here are some highlights of markdown syntax.
 
 [This is a link](https://google.com)
 
-Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+
+![gif of Emma confused w/ "Wait What?" on it](images/waitwhat.gif)
