@@ -1,4 +1,4 @@
-# Emma[^1]
+# Emma
 ## is a good dog
 
 
@@ -12,7 +12,7 @@
 * Naps
 * Getting petted
 
-[^1]:AKA Bobo, SoftGirl, Behbeh.
+
 
 [Emma is a Cavachon](https://www.foxglovecavachonpuppies.com/about-cavachons)
 
