@@ -11,6 +11,7 @@
 * Walks
 * Naps
 * Getting petted
+* Chasing that ball
 
 
 
